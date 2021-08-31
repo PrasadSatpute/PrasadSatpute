@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrasadSatpute
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS + Express + 
+- 💞️ I’m looking to collaborate on Bulid WebApplications
 - 📫 How to reach me prasadsatpute000@gmail.com
 
 <!---
